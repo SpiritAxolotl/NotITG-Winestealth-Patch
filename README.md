@@ -1,8 +1,8 @@
 # Winestealth
 If you've ever run NotITG through wine, you've probably noticed that stealth renders differently. This bash script patches NotITG v4.3.0 to make stealth render as it's intended.
 
-Winestealth in action (normal): <https://youtu.be/bXpeyOiDX_Y>  
-Winestealth not in action (fixed): <https://youtu.be/p1l1lPyS0AI>
+Winestealth in action (normal): <https://youtu.be/p1l1lPyS0AI>  
+Winestealth not in action (fixed): <https://youtu.be/bXpeyOiDX_Y>
 # Dependencies
 For checksum validation, you'll need `sha256sum`. You can install it via homebrew with
 
