@@ -19,10 +19,8 @@ Open your terminal of choice and `cd` to wherever you downloaded the `patch.sh`.
 ./patch.sh -i <your-path-to-the-nitg-v4.3.0-exe>
 ```
 
-If the checksum passes, congrats! The patched file will be called `NotITG-v4.3.1.exe` by default and it should be in the same directory as the original exe.
-
-If the checksum fails, make sure your filepath is correct.
-
+If the checksum passes, congrats! The patched file will be called `NotITG-v4.3.1.exe` by default and it should be in the same directory as the original exe.  
+If the checksum fails, make sure your filepath is correct.  
 If you're running this script on a different NotITG version, pass `-n` to disable the checksum. This script should still correctly patch all past versions of NotITG. The output exe will be changed to `NotITG.exe` ~~because I can't be bothered to update the version number for more than one build~~.
 
 # Explanation
