@@ -10,10 +10,11 @@ For checksum validation, you'll need `sha256sum`. You can install it via homebre
 brew install coreutils
 ```
 
-If you don't want checksum, put `-n` in the command below.
+If you don't want checksum validation, put `-n` in the command below.
 
 # Usage
-Open your terminal of choice and `cd` to wherever you downloaded the `patch.sh`. Run:
+Open your terminal of choice and `cd` to wherever you downloaded the [`patch.sh`](./patch.sh).  
+Run:
 
 ```bash
 ./patch.sh -i <your-path-to-the-nitg-v4.3.0-exe>
